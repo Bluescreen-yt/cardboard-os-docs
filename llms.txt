@@ -1,3 +1,5 @@
-﻿# cardboard-os-docs
+﻿# Welcome
 
-- [cardboard-os-docs](https://docs.example.com/readme.md): cardboard-os-docs
+> ✅ Your website is working.
+
+- [Welcome](https://docs.example.com/): Welcome
