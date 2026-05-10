@@ -1,5 +1,3 @@
-﻿# Welcome
+﻿# Home
 
-> ✅ Your website is working.
-
-- [Welcome](https://docs.example.com/): Welcome
+- [Home](https://bluescreen-yt.github.io/cardboard-os-docs/home.md): Home
