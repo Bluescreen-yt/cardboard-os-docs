@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bluescreen-yt.github.io/cardboard-os-docs/</loc>
-    <lastmod>2026-05-10T12:45:06Z</lastmod>
+    <lastmod>2026-07-14T16:46:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bluescreen-yt.github.io/cardboard-os-docs/agents/</loc>
+    <lastmod>2026-07-14T16:46:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bluescreen-yt.github.io/cardboard-os-docs/src/content/docs/guides/example/</loc>
+    <lastmod>2026-07-14T16:46:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bluescreen-yt.github.io/cardboard-os-docs/claude/</loc>
+    <lastmod>2026-07-14T16:46:03Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bluescreen-yt.github.io/cardboard-os-docs/src/content/docs/reference/example/</loc>
+    <lastmod>2026-07-14T16:46:03Z</lastmod>
   </url>
 </urlset>

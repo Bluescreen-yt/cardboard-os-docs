@@ -1,3 +1,21 @@
-﻿# Home
+﻿# Starlight Starter Kit: Basics
 
-- [Home](https://bluescreen-yt.github.io/cardboard-os-docs/home.md): Home
+> Built with Starlight
+
+- [Starlight Starter Kit: Basics](https://bluescreen-yt.github.io/cardboard-os-docs/readme.md): Starlight Starter Kit: Basics
+- [AGENTS](https://bluescreen-yt.github.io/cardboard-os-docs/agents.md): When starting the dev server, use background mode:
+- [CLAUDE](https://bluescreen-yt.github.io/cardboard-os-docs/claude.md): When starting the dev server, use background mode:
+
+## Src
+
+### Content
+
+#### Docs
+
+##### Guides
+
+- [Example Guide](https://bluescreen-yt.github.io/cardboard-os-docs/src/content/docs/guides/example.md): A guide in my new Starlight docs site.
+
+##### Reference
+
+- [Example Reference](https://bluescreen-yt.github.io/cardboard-os-docs/src/content/docs/reference/example.md): A reference page in my new Starlight docs site.
