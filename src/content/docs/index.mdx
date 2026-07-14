@@ -1,0 +1,40 @@
+---
+title: Welcome to cardboard os documentation
+description: Get started.
+template: splash # Remove or comment out this line to display the site sidebar on this page.
+hero:
+  tagline: Learn how to use the cardboard os to it's limits.
+  image:
+    file: ../../assets/logo.svg
+  actions:
+    - text: Start reading the docs
+      link: /guides/example/
+      icon: document
+    - text: Check the source code
+      link: https://github.com/Bluescreen-yt/CardBoard-OS-CCT
+      icon: github
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Update content" icon="pencil">
+		Edit `src/content/docs/index.mdx` to see this page change.
+	</Card>
+	<Card title="Change page layout" icon="document">
+		Delete `template: splash` in `src/content/docs/index.mdx` to display a
+		sidebar on this page.
+	</Card>
+	<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>
+</CardGrid>
